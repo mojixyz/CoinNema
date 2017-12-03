@@ -8,5 +8,9 @@
 5. امکان ایجاد اعلان جهت برسی دقیقه ای ارزش بیت کوین و اطلاع به کاربر در صورت برقرای شرط
 ### دانلود برنامه
 [لینک دانلود](https://github.com/mojixyz/CoinNema/releases/download/0.0.1/CoinNema.apk)
-### 
+### تصاویر برنامه
+![alt text](https://github.com/mojixyz/CoinNema/blob/master/screen/1.png)
 
+![alt text](https://github.com/mojixyz/CoinNema/blob/master/screen/2.png)
+
+![alt text](https://github.com/mojixyz/CoinNema/blob/master/screen/3.png)
